@@ -19,4 +19,4 @@
 Run `npm run dev` to start the local server, or `npm start` if you're using an older
 checkout — **this exact ambiguity is deliberate** and is what Lab 3 asks you to "fix" via
 a merge conflict. Don't worry about actually running the app; the labs are about Git, not
-the app itself.
+the app itself.Run npm start for local dev

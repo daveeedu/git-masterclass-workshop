@@ -1,0 +1,8 @@
+# Default owner for everything
+*                       @facilitator-github-handle
+
+# Docs specifically owned by the facilitator for quality control
+/docs/                  @facilitator-github-handle
+
+# Starter app code — open for all participants, no required owner beyond default
+/src/

@@ -1,0 +1,10 @@
+{
+  "name": "git-masterclass-workshop",
+  "version": "1.0.0",
+  "description": "Shared workshop repo for the Tech4Dev Git & GitHub Masterclass",
+  "scripts": {
+    "dev": "echo 'This is a teaching placeholder — no real dev server.'",
+    "start": "echo 'This is a teaching placeholder — no real start script.'"
+  },
+  "license": "MIT"
+}

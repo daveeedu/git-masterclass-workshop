@@ -11,6 +11,11 @@ This repository is the shared, hands-on companion to Tech4Dev's TCLA Masterclass
   cohort on this exact repo (Labs 4–7).
 - **After the masterclass:** This repo stays open. Fork it, break it, fix it — that's what it's here for.
 
+## Slide Decks
+
+- **Day 1:** https://docs.google.com/presentation/d/1uvt8_-OUrVqxy967Le9qnI4q8RfdFn90nnzj7dMucBc/edit?usp=sharing
+- **Day 2:** https://docs.google.com/presentation/d/1IWANAM5JwztFCEukvFJSCnruqdA0JuFDXQNdTNehZqw/edit?usp=sharing
+
 ## Quick Start
 
 \`\`\`bash

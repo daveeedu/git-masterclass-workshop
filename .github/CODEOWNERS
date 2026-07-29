@@ -1,8 +1,8 @@
 # Default owner for everything
-*                       @facilitator-github-handle
+*                       @daveeedu
 
 # Docs specifically owned by the facilitator for quality control
-/docs/                  @facilitator-github-handle
+/docs/                  @daveeedu
 
 # Starter app code — open for all participants, no required owner beyond default
 /src/

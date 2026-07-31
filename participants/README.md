@@ -5,3 +5,5 @@ Add your name below when you complete Lab 1! One line per person, at the end of 
 ## Participants
 
 - (facilitator) David Edu, workshop facilitator
+Hana Debay
+July 31 2026

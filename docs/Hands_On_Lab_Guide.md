@@ -4,7 +4,7 @@ Seven progressive labs, Labs 1–3 on Day 1 and Labs 4–7 on Day 2. Each lab as
 
 **Setup reminder for all labs:**
 ```bash
-git clone https://github.com/tech4dev/git-masterclass-workshop.git
+git clone https://github.com/daveeedu/git-masterclass-workshop/
 cd git-masterclass-workshop
 git config user.name "Your Name"
 git config user.email "you@example.com"

@@ -3,7 +3,7 @@
 1. Install Git (v2.30+) — check with `git --version`.
 2. Clone the repo:
    \`\`\`bash
-   git clone https://github.com/tech4dev-tcla/git-masterclass-workshop.git
+   git clone https://github.com/daveeedu/git-masterclass-workshop/
    cd git-masterclass-workshop
    \`\`\`
 3. Configure your identity (first time only):

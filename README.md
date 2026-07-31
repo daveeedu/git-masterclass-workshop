@@ -19,7 +19,7 @@ This repository is the shared, hands-on companion to Tech4Dev's TCLA Masterclass
 ## Quick Start
 
 \`\`\`bash
-git clone https://github.com/tech4dev-tcla/git-masterclass-workshop.git
+git clone https://github.com/daveeedu/masterclass-demo.git
 cd git-masterclass-workshop
 \`\`\`
 
@@ -28,9 +28,9 @@ See [docs/setup.md](docs/setup.md) for the full local setup, and
 
 ## Resources
 
-- 📄 [Participant Cheat Sheet](docs/cheat-sheet.md)
-- 🧪 [Lab Guide](https://github.com/tech4dev-tcla/git-masterclass-workshop/wiki) *(linked separately by the facilitator)*
-- 💬 Questions? Open an [Issue](../../issues) — that's also good practice for Day 2!
+- 📄 [Participant Cheat Sheet](docs/Git_&_GitHub_Cheat_Sheet.md)
+- 🧪 [Lab Guide](docs/Hands_On_Lab_Guide.md) 
+- 💬 Questions? Open an [Issue] — that's also good practice for Day 2!
 
 ## Branch Naming Convention
 

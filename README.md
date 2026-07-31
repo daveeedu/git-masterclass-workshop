@@ -4,7 +4,7 @@ This repository is the shared, hands-on companion to Tech4Dev's TCLA Masterclass
 **"Solving Complex Merge Conflicts and Managing Branches Safely with Git and GitHub"**
 (Facilitator: David Edu — 31 July & 1 August 2026).
 
-## What This Repo Is For
+## What This Repo Is For 
 
 - **Day 1:** Clone it, branch off it, and practice your first merge conflicts locally (Labs 1–3).
 - **Day 2:** Push real branches, open real Pull Requests, and collaborate with the rest of the

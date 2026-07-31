@@ -30,10 +30,10 @@ git config user.email "you@example.com"
    ```bash
    git switch -c ada/lab1-branching
    ```
-3. Open `playground/notes.md` and add a line with your name and today's date.
+3. Open `participants/README.md` and add a line with your name and today's date.
 4. Stage and commit:
    ```bash
-   git add playground/notes.md
+   git add participants/README.md
    git commit -m "add my note for lab 1"
    ```
 5. Run `git log --oneline --graph --all` and take a screenshot or just look — find your commit and notice `main` hasn't moved.
@@ -50,9 +50,9 @@ You have a branch that exists only locally so far, with one commit main doesn't 
 ```bash
 git switch main
 git switch -c ada/lab1-branching
-echo "- Ada, 31 July 2026: hello from my branch!" >> playground/notes.md
-git add playground/notes.md
-git commit -m "add my note for lab 1"
+echo "- Ada, 31 July 2026: hello from my branch!" >> participants/README.md
+git add participants/README.md
+git commit -m "add my name for lab 1"
 git log --oneline --graph --all
 ```
 

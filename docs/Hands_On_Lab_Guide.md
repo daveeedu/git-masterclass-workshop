@@ -1,4 +1,4 @@
-# Part 5: Hands-On Lab Guide
+# Hands-On Lab Guide
 
 Seven progressive labs, Labs 1–3 on Day 1 and Labs 4–7 on Day 2. Each lab assumes the previous one is complete — they build on the same working repository. Full repo setup instructions are in Part 6 (GitHub Workshop Repository Specification); this guide assumes that repo already exists and participants have cloned it.
 

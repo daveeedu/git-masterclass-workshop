@@ -183,9 +183,9 @@ git push origin main
 1. Create a throwaway branch: `git switch -c yourname/lab4-rebase`.
 2. Make three small, deliberately messy commits:
    ```bash
-   echo "step one" >> playground/scratch.md && git add . && git commit -m "wip"
-   echo "step two" >> playground/scratch.md && git add . && git commit -m "fix typo"
-   echo "step three" >> playground/scratch.md && git add . && git commit -m "another wip"
+   echo "step one" >> participants/README.md && git add . && git commit -m "wip"
+   echo "step two" >> participants/README.md && git add . && git commit -m "fix typo"
+   echo "step three" >> participants/README.md && git add . && git commit -m "another wip"
    ```
 3. Start an interactive rebase over the last 3 commits:
    ```bash
@@ -206,9 +206,9 @@ A single, well-named commit replacing three sloppy ones, and direct experience w
 ### Solution (if stuck)
 ```bash
 git switch -c ada/lab4-rebase
-echo "step one" >> playground/scratch.md && git add . && git commit -m "wip"
-echo "step two" >> playground/scratch.md && git add . && git commit -m "fix typo"
-echo "step three" >> playground/scratch.md && git add . && git commit -m "another wip"
+echo "step one" >> participants/README.md && git add . && git commit -m "wip"
+echo "step two" >> participants/README.md && git add . && git commit -m "fix typo"
+echo "step three" >> participants/README.md && git add . && git commit -m "another wip"
 git rebase -i HEAD~3
 # change lines 2 and 3 from "pick" to "squash", save
 # write final message "add scratch notes for lab 4", save
@@ -280,7 +280,7 @@ Full click-path: Repo page → "Pull requests" tab → "New pull request" → se
 5. Try to push directly to `main` from your terminal:
    ```bash
    git switch main
-   echo "test" >> playground/notes.md
+   echo "test" >> participants/README.md
    git add . && git commit -m "direct push test"
    git push origin main
    ```
@@ -319,7 +319,7 @@ No git commands beyond the ones above are required — this lab is primarily a G
    Git will warn you that you're in "detached HEAD" state — this is expected and fine.
 3. Make a new commit here:
    ```bash
-   echo "an experiment nobody will ever see again... or will they?" >> playground/scratch.md
+   echo "an experiment nobody will ever see again... or will they?" >> participants/README.md
    git add .
    git commit -m "quick experiment in detached HEAD"
    ```
@@ -355,7 +355,7 @@ A recovered branch containing the commit that had no branch pointing to it a few
 ```bash
 git log --oneline -5
 git checkout <any-recent-hash>
-echo "an experiment nobody will ever see again... or will they?" >> playground/scratch.md
+echo "an experiment nobody will ever see again... or will they?" >> participants/README.md
 git add . && git commit -m "quick experiment in detached HEAD"
 git switch main
 git reflog

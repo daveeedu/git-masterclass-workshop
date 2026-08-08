@@ -4,7 +4,8 @@ Add your name below when you complete Lab 1! One line per person, at the end of 
 
 ## Participants
 
-- (facilitator) David Edu, workshop facilitator 
+- (facilitator) David Edu, workshop facilitator
+-(Participant) Alex Musa Paul
 - Hana Debay
 - Usieme Blessing, participant
 - Abdulwahab Adamson
